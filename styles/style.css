@@ -41,3 +41,11 @@ img {
      margin: 0 auto;
  }
 
+.tab-header {
+    display: flex;
+}
+
+.tab-header li {
+    list-style: none;
+    padding: 5px 10px;
+}
